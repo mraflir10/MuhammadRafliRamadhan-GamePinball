@@ -1,6 +1,6 @@
 ### **OVERVIEW**
 
-A simple pinball game created using Unity that consists several basic elements such as paddles, bumpers, a launcher, switches, and a ramp. Just like a regular pinball games, you have to accumulate as many points as possible while ensuring the ball remains within the play area. 
+A simple pinball game made with Unity that consists several basic elements such as paddles, bumpers, a launcher, switches, and a ramp. Just like a regular pinball games, you have to accumulate as many points as possible while ensuring the ball remains within the play area. 
 The Player can earn points when the ball hits a bumper, passes through a switch, or goes over a ramp within the game arena.
 
 
